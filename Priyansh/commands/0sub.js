@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "sub",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭", 
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩", 
 	description: "hihihihi",
 	commandCategory: "no prefix",
 	usages: "sub",
@@ -12,9 +12,9 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("Priyansh rajput")==0 || event.body.indexOf("sub")==0 || event.body.indexOf("subscribe")==0 || event.body.indexOf("Priyansh")==0) {
+	if (event.body.indexOf("Aayush Pandit")==0 || event.body.indexOf("sub")==0 || event.body.indexOf("subscribe")==0 || event.body.indexOf("Aayush")==0) {
 		var msg = {
-				body: "👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇",
+				body: "👋For Any Kind Of Help Contact On Telegram  Username 👉 @aayush.pandit😇",
 				attachment: fs.createReadStream(__dirname + `/noprefix/sub.mp3`)
 			}
 			api.sendMessage(msg, threadID, messageID);
