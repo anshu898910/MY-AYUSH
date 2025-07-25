@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "config",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩𝐭",
 	description: "config bot!",
 	commandCategory: "admin",
 	cooldowns: 5
@@ -91,7 +91,7 @@ module.exports.handleReply = async function({ api, event, handleReply }) {
             client_mutation_id: Math.round(Math.random()*19)
           }
     		}),
-    		doc_id: "100017985245260"
+    		doc_id: "61578344454991"
       };
       api.httpPost("https://www.facebook.com/api/graphql/", form, (err, data) => {
         if (err || JSON.parse(data).errors) reply("An error occurred, please try again later");
