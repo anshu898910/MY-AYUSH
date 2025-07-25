@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "banner",
 	version: "1.0.2",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
 	description: "generates banner with lots of characters available",
   commandCategory: "game",
 	usages: "{number}|{name1}|{name2}|{name3}|{color}",
