@@ -2,7 +2,7 @@ module.exports.config = {
     name: "dogfact",
     version: "1.0.0",
     hasPermision: 0,
-    credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credit: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
     description: "image",
     commandCategory: "random-img",
     cooldowns: 0,
