@@ -7,7 +7,7 @@ module.exports.config = {
   name: "imgur",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "Priyansh Rajput",
+  credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
   description: "Upload images/videos to Imgur using your custom API",
   commandCategory: "Utilities",
   usages: "[reply]",
