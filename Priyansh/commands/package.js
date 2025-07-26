@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "package",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭", //don't change the credits please
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩", //don't change the credits please
 	description: ".",
 	commandCategory: "system",
 	cooldowns: 1,
@@ -22,7 +22,7 @@ var callback = () => api.sendMessage({body:`
 {
 	"name": "Priyansh",
 	"version": "30.0.0",
-	"description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
+	"description": "A simple Facebook Messenger Bot made by 𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩.",
 	"main": "Priyansh.js",
 	"scripts": {
 		"start": "node index.js",
@@ -43,7 +43,7 @@ var callback = () => api.sendMessage({body:`
 		"prince",
 		"mental"
 	],
-	"author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	"author": "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/priyanshu192/fb-bot/issues"
