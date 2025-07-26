@@ -4,7 +4,7 @@ module.exports.config = {
   name: "cardinfo7",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
   description: "create card info",
   commandCategory: "info",
   cooldowns: 2,
