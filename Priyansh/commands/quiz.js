@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "quiz",
 	version: "1.0.0",
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
 	hasPermssion: 0,
 	description: "Answer questions (English)",
 	commandCategory: "game",
