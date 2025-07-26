@@ -2,7 +2,7 @@
 	name: "thread",
 	version: "1.0.5",
 	hasPermssion: 2,
-	credits: "Priyansh Rajput",
+	credits: "𝘼𝙮𝙪𝙨𝙝 𝙋𝙖𝙣𝙙𝙞𝙩",
 	description: "Ban or unban a group",
 	commandCategory: "system",
 	usages: "[unban/ban/search] [ID or text]",
